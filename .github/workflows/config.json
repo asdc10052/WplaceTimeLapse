@@ -1,0 +1,16 @@
+{
+  "targets": [
+    {
+      "name": "SEOUL (3x3)",
+      "start": "(Tl X: 1745, Tl Y: 792, Px X: 0, Px Y: 0)",
+      "end": "(Tl X: 1747, Tl Y: 794, Px X: 999, Px Y: 999)",
+      "enabled": false
+    },
+    {
+      "name": "Dokdo",
+      "start": "(Tl X: 1774, Tl Y: 795, Px X: 39, Px Y: 99)",
+      "end": "(Tl X: 1774, Tl Y: 795, Px X: 401, Px Y: 361)",
+      "enabled": true
+    }
+  ]
+}
