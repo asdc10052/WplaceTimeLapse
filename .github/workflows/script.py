@@ -59,7 +59,7 @@ class WplaceTimeLapse:
     def gif(self):
         warnings.filterwarnings("ignore", message="Palette images with Transparency expressed in bytes should be converted to RGBA images")
         frames = [Image.open(os.path.join(self.dirname, f)) for f in os.listdir(self.dirname) if f.endswith(".png")]
-        frames[0].save(self.gifname, save_all=True, append_images=frames[1:], duration=100, loop=0, transparency=1)
+        frames[0].save(self.gifname, save_all=True, append_images=frames[1:], duration=100, loop=0, transparency=1, disposal=2)
         print(f'> {self.gifname}')
 
 class NotChanged(Exception):
