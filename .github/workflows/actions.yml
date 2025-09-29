@@ -18,7 +18,7 @@ jobs:
 
       - name: Python
         run: |
-          pip install pillow
+          pip install aiohttp pillow
           python ".github/workflows/script.py"
 
       - name: Git
