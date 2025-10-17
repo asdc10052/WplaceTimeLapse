@@ -13,12 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
+
+      - name: PIP
+        run: |
+          pip install aiohttp pillow
 
       - name: Python
         run: |
-          pip install aiohttp pillow
           python ".github/workflows/script.py"
 
       - name: Git
