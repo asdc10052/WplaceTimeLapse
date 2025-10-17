@@ -16,7 +16,7 @@
       "name": "Dokdo",
       "start": "(Tl X: 1774, Tl Y: 795, Px X: 39, Px Y: 99)",
       "end": "(Tl X: 1774, Tl Y: 795, Px X: 401, Px Y: 361)",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
