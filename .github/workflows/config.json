@@ -4,7 +4,7 @@
       "name": "STELLIVE 1920X1080",
       "start": "(Tl X: 1886, Tl Y:0 792, Px X: 979, Px Y: 964)",
       "end": "(Tl X: 1888, Tl Y: 2, Px X: 898, Px Y: 43)",
-      "enabled": false,
+      "enabled": true,
       "gif": false
     }
   ]
