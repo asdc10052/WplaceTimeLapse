@@ -1,23 +1,9 @@
 {
   "targets": [
     {
-      "name": "SEOUL (3x3)",
-      "start": "(Tl X: 1745, Tl Y: 792, Px X: 0, Px Y: 0)",
-      "end": "(Tl X: 1747, Tl Y: 794, Px X: 999, Px Y: 999)",
-      "enabled": false,
-      "gif": false
-    },
-    {
-      "name": "SEOUL (5x5)",
-      "start": "(Tl X: 1744, Tl Y: 791, Px X: 0, Px Y: 0)",
-      "end": "(Tl X: 1748, Tl Y: 795, Px X: 999, Px Y: 999)",
-      "enabled": false,
-      "gif": false
-    },
-    {
-      "name": "Dokdo",
-      "start": "(Tl X: 1774, Tl Y: 795, Px X: 39, Px Y: 99)",
-      "end": "(Tl X: 1774, Tl Y: 795, Px X: 401, Px Y: 361)",
+      "name": "STELLIVE 1920X1080",
+      "start": "(Tl X: 1886, Tl Y:0 792, Px X: 979, Px Y: 964)",
+      "end": "(Tl X: 1888, Tl Y: 2, Px X: 898, Px Y: 43)",
       "enabled": false,
       "gif": false
     }
